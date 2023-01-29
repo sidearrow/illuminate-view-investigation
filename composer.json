@@ -1,0 +1,6 @@
+{
+    "name": "sidearrow/illuminate-view-standalone",
+    "require": {
+        "illuminate/view": "^9.48"
+    }
+}
